@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ibrahim-weather-app/static/css/main.e5ef9af2.css",
+    "main.js": "/ibrahim-weather-app/static/js/main.204bfbb9.js",
+    "static/media/noaa-kcvlb727mn8-unsplash.jpg": "/ibrahim-weather-app/static/media/noaa-kcvlb727mn8-unsplash.dc17db1228798e53fceb.jpg",
+    "index.html": "/ibrahim-weather-app/index.html",
+    "main.e5ef9af2.css.map": "/ibrahim-weather-app/static/css/main.e5ef9af2.css.map",
+    "main.204bfbb9.js.map": "/ibrahim-weather-app/static/js/main.204bfbb9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5ef9af2.css",
+    "static/js/main.204bfbb9.js"
+  ]
+}
